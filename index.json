@@ -8,12 +8,12 @@
         "name": "SBXH",
         "packageName": "eu.kanade.tachiyomi.extension.ko.sbxh",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/apk/tachiyomi-ko.sbxh-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/apk/tachiyomi-ko.sbxh-v1.4.1.apk",
           "iconUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/icon/eu.kanade.tachiyomi.extension.ko.sbxh.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "1",
+        "versionName": "1.4.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
