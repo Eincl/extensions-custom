@@ -23,6 +23,32 @@
             "homeUrl": "https://sbxh9.com"
           }
         ]
+      },
+      {
+        "name": "Wolf.com",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/apk/tachiyomi-ko.wolfdotcom-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/icon/eu.kanade.tachiyomi.extension.ko.wolfdotcom.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5583626852311652499",
+            "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
+            "language": "ko",
+            "homeUrl": "https://wfwf415.com"
+          },
+          {
+            "id": "7074060458114951398",
+            "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
+            "language": "ko",
+            "homeUrl": "https://wfwf415.com"
+          }
+        ]
       }
     ]
   }
