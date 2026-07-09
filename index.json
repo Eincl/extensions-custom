@@ -1,0 +1,29 @@
+{
+  "name": "Eincl Custom",
+  "badgeLabel": "EIN",
+  "signingKey": "ead23eb446c1581e7cf21f23258fb8ff590e19e3b8e6010a0003c98b6bf1333d",
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "SBXH",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.sbxh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/apk/tachiyomi-ko.sbxh-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Eincl/extensions-custom/main/icon/eu.kanade.tachiyomi.extension.ko.sbxh.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4771139259419355357",
+            "name": "SBXH",
+            "language": "ko",
+            "homeUrl": "https://sbxh9.com"
+          }
+        ]
+      }
+    ]
+  }
+}
